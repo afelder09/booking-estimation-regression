@@ -1,0 +1,1521 @@
+{
+    "context": {
+      "searchId": "foo",
+      "sessionId": "201711222051_ZO3F7C8J_SBLZJX21",
+      "deviceId": "bar",
+      "personId": null,
+      "numRooms": 2,
+      "numSeats": 2,
+      "tripPurpose": "Leisure"
+    },
+    "selectedInventory": {
+      "carShare": {
+        "ID": 1,
+        "retail_price": 50.00
+      },
+      "flight": {
+        "discountBaseAmount": 180.81,
+        "baseAmount": 187.91,
+        "retailTotalAmount": 224.8,
+        "totalAmount": 224.8,
+        "currencyCode": "USD",
+        "segmentGroups": [
+          {
+            "_spring_pass_through_helper": {
+              "durationObject": {
+                "humanFormatted": "4h 58m",
+                "value": 4.966666666666667
+              }
+            },
+            "segments": [
+              {
+                "equipmentCode": "319",
+                "seatsAvailable": 9,
+                "operatingCarrier": "AA",
+                "originDepartureGmtOffset": -4,
+                "operatingFlightNumber": "2124",
+                "originDepartureTime": "15:30:00",
+                "_spring_pass_through_helper": {
+                  "amenities": [],
+                  "arrivalDatetime": "2018-06-12 17:13:00",
+                  "departureDatetime": "2018-06-12 15:30:00",
+                  "destinationAirportName": "Logan International",
+                  "destinationCityName": "Boston",
+                  "duration": "1h 43m",
+                  "fareBasisDestinationAirport": "BOS",
+                  "fareBasisOriginAirport": "DCA",
+                  "originAirportName": "Ronald Reagan Washington National",
+                  "originCityName": "Washington",
+                  "retailBookingCode": "N",
+                  "segmentNumber": 0
+                },
+                "bookingCode": "N",
+                "hiddenStops": [],
+                "governingCarrier": "AA",
+                "marketingFlightNumber": "2124",
+                "cabin": "Y",
+                "originDepartureDate": "2018-06-12",
+                "cabinName": "Economy class",
+                "destinationArrivalGmtOffset": -4,
+                "originAirport": "DCA",
+                "marriageGroup": "O",
+                "durationObject": {
+                  "_spring_pass_through_helper": {},
+                  "value": 1.7166666666666666,
+                  "humanFormatted": "1h 43m"
+                },
+                "destinationArrivalDate": "2018-06-12",
+                "destinationArrivalTime": "17:13:00",
+                "operatingCarrierName": "American Airlines",
+                "fareBasisCode": "NVAJZNN3/F116",
+                "marketingCarrier": "AA",
+                "destinationAirport": "BOS",
+                "marketingCarrierName": "American Airlines"
+              },
+              {
+                "equipmentCode": "E90",
+                "seatsAvailable": 9,
+                "operatingCarrier": "AA",
+                "originDepartureGmtOffset": -4,
+                "operatingFlightNumber": "2141",
+                "originDepartureTime": "19:00:00",
+                "_spring_pass_through_helper": {
+                  "amenities": [],
+                  "arrivalDatetime": "2018-06-12 20:28:00",
+                  "departureDatetime": "2018-06-12 19:00:00",
+                  "destinationAirportName": "LaGuardia",
+                  "destinationCityName": "New York",
+                  "duration": "1h 28m",
+                  "fareBasisDestinationAirport": "LGA",
+                  "fareBasisOriginAirport": "BOS",
+                  "originAirportName": "Logan International",
+                  "originCityName": "Boston",
+                  "retailBookingCode": "S",
+                  "segmentNumber": 1
+                },
+                "bookingCode": "S",
+                "hiddenStops": [],
+                "governingCarrier": "AA",
+                "marketingFlightNumber": "2141",
+                "cabin": "Y",
+                "originDepartureDate": "2018-06-12",
+                "cabinName": "Economy class",
+                "destinationArrivalGmtOffset": -4,
+                "originAirport": "BOS",
+                "marriageGroup": "O",
+                "durationObject": {
+                  "_spring_pass_through_helper": {},
+                  "value": 1.4666666666666666,
+                  "humanFormatted": "1h 28m"
+                },
+                "destinationArrivalDate": "2018-06-12",
+                "destinationArrivalTime": "20:28:00",
+                "operatingCarrierName": "American Airlines",
+                "fareBasisCode": "S7AHZNN1/F116",
+                "marketingCarrier": "AA",
+                "destinationAirport": "LGA",
+                "marketingCarrierName": "American Airlines"
+              }
+            ]
+          }
+        ],
+        "source": "sabre-air-shop-service:undefined",
+        "taxAmount": 36.89,
+        "guid": "d7bc99de-966d-4e98-b48d-4652ae0a9f14",
+        "retailTaxAmount": 36.89,
+        "discountTaxAmount": 36.36,
+        "pricingSource": "ADVJR1",
+        "nonrefundable": true,
+        "_spring_pass_through_helper": {
+          "discount": true,
+          "durationObject": {
+            "humanFormatted": "4h 58m",
+            "value": 4.966666666666667
+          },
+          "features": {},
+          "invalidateCacheUrl": "/itineraries/one-way?origins=%7B%22primary%22:%22DCA%22%7D&destinations=%7B%22primary%22:%22NYC%22%7D&cabinClasses%5B%5D=Y&cabinClasses%5B%5D=S&date=2018-06-12&refundable=false&pricingTypes%5B%5D=retail",
+          "pkgSavingsAmount": 7.63,
+          "pkgSavingsPercent": 3.39,
+          "score": {
+            "finalRank": 50,
+            "finalScore": 0.17154157459608993,
+            "final_score": 0.17154157459608993
+          },
+          "totalDuration": "4h 58m"
+        },
+        "discountTotalAmount": 217.17,
+        "retailBaseAmount": 187.91,
+        "sourceCode": "bfm",
+        "recordUpdateTime": "2018-05-09 15:13:45+00:00",
+        "partnerStatus": "non-partner"
+      },		
+      "partnerStatus": "non-partner",
+      "packageType": "ARide"
+    },
+    "flexInventory": [
+      {
+        "flight": {
+          "discountBaseAmount": 180.81,
+          "baseAmount": 187.91,
+          "retailTotalAmount": 224.8,
+          "totalAmount": 224.8,
+          "currencyCode": "USD",
+          "segmentGroups": [
+            {
+              "_spring_pass_through_helper": {
+                "durationObject": {
+                  "humanFormatted": "4h 58m",
+                  "value": 4.966666666666667
+                }
+              },
+              "segments": [
+                {
+                  "equipmentCode": "319",
+                  "seatsAvailable": 9,
+                  "operatingCarrier": "AA",
+                  "originDepartureGmtOffset": -4,
+                  "operatingFlightNumber": "2124",
+                  "originDepartureTime": "15:30:00",
+                  "_spring_pass_through_helper": {
+                    "amenities": [],
+                    "arrivalDatetime": "2018-06-12 17:13:00",
+                    "departureDatetime": "2018-06-12 15:30:00",
+                    "destinationAirportName": "Logan International",
+                    "destinationCityName": "Boston",
+                    "duration": "1h 43m",
+                    "fareBasisDestinationAirport": "BOS",
+                    "fareBasisOriginAirport": "DCA",
+                    "originAirportName": "Ronald Reagan Washington National",
+                    "originCityName": "Washington",
+                    "retailBookingCode": "N",
+                    "segmentNumber": 0
+                  },
+                  "bookingCode": "N",
+                  "hiddenStops": [],
+                  "governingCarrier": "AA",
+                  "marketingFlightNumber": "2124",
+                  "cabin": "Y",
+                  "originDepartureDate": "2018-06-12",
+                  "cabinName": "Economy class",
+                  "destinationArrivalGmtOffset": -4,
+                  "originAirport": "DCA",
+                  "marriageGroup": "O",
+                  "durationObject": {
+                    "_spring_pass_through_helper": {},
+                    "value": 1.7166666666666666,
+                    "humanFormatted": "1h 43m"
+                  },
+                  "destinationArrivalDate": "2018-06-12",
+                  "destinationArrivalTime": "17:13:00",
+                  "operatingCarrierName": "American Airlines",
+                  "fareBasisCode": "NVAJZNN3/F116",
+                  "marketingCarrier": "AA",
+                  "destinationAirport": "BOS",
+                  "marketingCarrierName": "American Airlines"
+                },
+                {
+                  "equipmentCode": "E90",
+                  "seatsAvailable": 9,
+                  "operatingCarrier": "AA",
+                  "originDepartureGmtOffset": -4,
+                  "operatingFlightNumber": "2141",
+                  "originDepartureTime": "19:00:00",
+                  "_spring_pass_through_helper": {
+                    "amenities": [],
+                    "arrivalDatetime": "2018-06-12 20:28:00",
+                    "departureDatetime": "2018-06-12 19:00:00",
+                    "destinationAirportName": "LaGuardia",
+                    "destinationCityName": "New York",
+                    "duration": "1h 28m",
+                    "fareBasisDestinationAirport": "LGA",
+                    "fareBasisOriginAirport": "BOS",
+                    "originAirportName": "Logan International",
+                    "originCityName": "Boston",
+                    "retailBookingCode": "S",
+                    "segmentNumber": 1
+                  },
+                  "bookingCode": "S",
+                  "hiddenStops": [],
+                  "governingCarrier": "AA",
+                  "marketingFlightNumber": "2141",
+                  "cabin": "Y",
+                  "originDepartureDate": "2018-06-12",
+                  "cabinName": "Economy class",
+                  "destinationArrivalGmtOffset": -4,
+                  "originAirport": "BOS",
+                  "marriageGroup": "O",
+                  "durationObject": {
+                    "_spring_pass_through_helper": {},
+                    "value": 1.4666666666666666,
+                    "humanFormatted": "1h 28m"
+                  },
+                  "destinationArrivalDate": "2018-06-12",
+                  "destinationArrivalTime": "20:28:00",
+                  "operatingCarrierName": "American Airlines",
+                  "fareBasisCode": "S7AHZNN1/F116",
+                  "marketingCarrier": "AA",
+                  "destinationAirport": "LGA",
+                  "marketingCarrierName": "American Airlines"
+                }
+              ]
+            }
+          ],
+          "source": "sabre-air-shop-service:undefined",
+          "taxAmount": 36.89,
+          "guid": "d7bc99de-966d-4e98-b48d-4652ae0a9f14",
+          "retailTaxAmount": 36.89,
+          "discountTaxAmount": 36.36,
+          "pricingSource": "ADVJR1",
+          "nonrefundable": true,
+          "_spring_pass_through_helper": {
+            "discount": true,
+            "durationObject": {
+              "humanFormatted": "4h 58m",
+              "value": 4.966666666666667
+            },
+            "features": {},
+            "invalidateCacheUrl": "/itineraries/one-way?origins=%7B%22primary%22:%22DCA%22%7D&destinations=%7B%22primary%22:%22NYC%22%7D&cabinClasses%5B%5D=Y&cabinClasses%5B%5D=S&date=2018-06-12&refundable=false&pricingTypes%5B%5D=retail",
+            "pkgSavingsAmount": 7.63,
+            "pkgSavingsPercent": 3.39,
+            "score": {
+              "finalRank": 50,
+              "finalScore": 0.17154157459608993,
+              "final_score": 0.17154157459608993
+            },
+            "totalDuration": "4h 58m"
+          },
+          "discountTotalAmount": 217.17,
+          "retailBaseAmount": 187.91,
+          "sourceCode": "bfm",
+          "recordUpdateTime": "2018-05-09 15:13:45+00:00",
+          "partnerStatus": "non-partner"
+        },
+        "carShare": {
+          "ID": 1,
+          "retail_price": 50.00
+        },
+        "hotel": {
+          "guid": "f73ab4aa-ec84-455a-8022-186d4412fcde",
+          "score": {
+            "tile_scores": [
+              -0.690969967600098,
+              -0.690969967600098,
+              0.649833083171747,
+              0.649833083171747
+            ],
+            "final_score": 0.9643564356435643
+          },
+          "hotel_id": "152696",
+          "lat": 40.70795,
+          "lng": -74.00711,
+          "distance": 0.3382682813037417,
+          "pkg_savings_amount": 0,
+          "retail_total": 744.8,
+          "retail_total_tax": 107.92,
+          "retail_nightly_rate_total": 636.88,
+          "total": 744.8,
+          "surcharge_total": 107.92,
+          "arrival_date": "2018-01-15",
+          "smoking_pref": "NS",
+          "high_rate": 679,
+          "postal_code": "10038",
+          "nightly_rate_total": 636.88,
+          "avg_rate": 159.22,
+          "retail_avg_rate": 159.22,
+          "permits_loyalty_points": false,
+          "stay_key": "es-152696-2018-01-15-2018-01-19",
+          "max_room_occupancy": 2,
+          "rate_type": "MerchantStandard",
+          "state_province_code": "NY",
+          "rate_code": 210492450,
+          "country_code": "US",
+          "hotel_properties_id": 33558,
+          "airport_code": "LGA",
+          "rate_currency_code": "USD",
+          "pkg_savings_percent": 0,
+          "property_category": 1,
+          "thumbnail_url": "/hotels/1000000/330000/327900/327886/b69d4fb0_t.jpg",
+          "commissionable_usd_total": "636.88",
+          "sort_key": "210492450-200447692-es-152696-2018-01-15-2018-01-19",
+          "fees": [
+            {
+              "amount": "80.00",
+              "type": "ResortFee"
+            }
+          ],
+          "low_rate": 159.22,
+          "bed_types": [
+            {
+              "desc": "1 king bed",
+              "id": "14"
+            }
+          ],
+          "room_type_code": 200447692,
+          "num_adults": 1,
+          "name": "Gild Hall, A Thompson Hotel",
+          "source": "ean-availability-service-standalone",
+          "room_desc": "Deluxe Room, 1 King Bed",
+          "date_pulled": "2018-01-05T16:27:48+00:00",
+          "departure_date": "2018-01-19",
+          "nonrefundable": false,
+          "cancellation_policy": "We understand that sometimes your travel plans change. We do not charge a change or cancel fee. However, this property (Gild Hall, A Thompson Hotel) imposes the following penalty to its customers that we are required to pass on: Cancellations or changes made after 11:59 AM ((GMT-05:00)) on Jan 14, 2018, or no-shows, are subject to a 1 Night Room & Tax penalty. ",
+          "surcharges": [
+            {
+              "amount": "107.92",
+              "type": "TaxAndServiceFee"
+            }
+          ],
+          "address1": "15 Gold Street",
+          "location_desc": "Near New York Stock Exchange",
+          "city": "New York",
+          "amenities": [],
+          "source_code": "ean",
+          "max_nightly_rate": 159.22,
+          "expedia_property_id": "152696",
+          "avail_rooms": 33,
+          "hotel_rating": 4.5,
+          "avg_base_rate": 199.02,
+          "currency_code": "USD"
+        },
+        "partnerStatus": "mixed-partner",
+        "packageType": "AHRide",
+        "rank": 0,
+        "flexType": "0"
+      },
+      {
+        "flight": {
+          "discountBaseAmount": 180.81,
+          "baseAmount": 187.91,
+          "retailTotalAmount": 224.8,
+          "totalAmount": 224.8,
+          "currencyCode": "USD",
+          "segmentGroups": [
+            {
+              "_spring_pass_through_helper": {
+                "durationObject": {
+                  "humanFormatted": "4h 58m",
+                  "value": 4.966666666666667
+                }
+              },
+              "segments": [
+                {
+                  "equipmentCode": "319",
+                  "seatsAvailable": 9,
+                  "operatingCarrier": "AA",
+                  "originDepartureGmtOffset": -4,
+                  "operatingFlightNumber": "2124",
+                  "originDepartureTime": "15:30:00",
+                  "_spring_pass_through_helper": {
+                    "amenities": [],
+                    "arrivalDatetime": "2018-06-12 17:13:00",
+                    "departureDatetime": "2018-06-12 15:30:00",
+                    "destinationAirportName": "Logan International",
+                    "destinationCityName": "Boston",
+                    "duration": "1h 43m",
+                    "fareBasisDestinationAirport": "BOS",
+                    "fareBasisOriginAirport": "DCA",
+                    "originAirportName": "Ronald Reagan Washington National",
+                    "originCityName": "Washington",
+                    "retailBookingCode": "N",
+                    "segmentNumber": 0
+                  },
+                  "bookingCode": "N",
+                  "hiddenStops": [],
+                  "governingCarrier": "AA",
+                  "marketingFlightNumber": "2124",
+                  "cabin": "Y",
+                  "originDepartureDate": "2018-06-12",
+                  "cabinName": "Economy class",
+                  "destinationArrivalGmtOffset": -4,
+                  "originAirport": "DCA",
+                  "marriageGroup": "O",
+                  "durationObject": {
+                    "_spring_pass_through_helper": {},
+                    "value": 1.7166666666666666,
+                    "humanFormatted": "1h 43m"
+                  },
+                  "destinationArrivalDate": "2018-06-12",
+                  "destinationArrivalTime": "17:13:00",
+                  "operatingCarrierName": "American Airlines",
+                  "fareBasisCode": "NVAJZNN3/F116",
+                  "marketingCarrier": "AA",
+                  "destinationAirport": "BOS",
+                  "marketingCarrierName": "American Airlines"
+                },
+                {
+                  "equipmentCode": "E90",
+                  "seatsAvailable": 9,
+                  "operatingCarrier": "AA",
+                  "originDepartureGmtOffset": -4,
+                  "operatingFlightNumber": "2141",
+                  "originDepartureTime": "19:00:00",
+                  "_spring_pass_through_helper": {
+                    "amenities": [],
+                    "arrivalDatetime": "2018-06-12 20:28:00",
+                    "departureDatetime": "2018-06-12 19:00:00",
+                    "destinationAirportName": "LaGuardia",
+                    "destinationCityName": "New York",
+                    "duration": "1h 28m",
+                    "fareBasisDestinationAirport": "LGA",
+                    "fareBasisOriginAirport": "BOS",
+                    "originAirportName": "Logan International",
+                    "originCityName": "Boston",
+                    "retailBookingCode": "S",
+                    "segmentNumber": 1
+                  },
+                  "bookingCode": "S",
+                  "hiddenStops": [],
+                  "governingCarrier": "AA",
+                  "marketingFlightNumber": "2141",
+                  "cabin": "Y",
+                  "originDepartureDate": "2018-06-12",
+                  "cabinName": "Economy class",
+                  "destinationArrivalGmtOffset": -4,
+                  "originAirport": "BOS",
+                  "marriageGroup": "O",
+                  "durationObject": {
+                    "_spring_pass_through_helper": {},
+                    "value": 1.4666666666666666,
+                    "humanFormatted": "1h 28m"
+                  },
+                  "destinationArrivalDate": "2018-06-12",
+                  "destinationArrivalTime": "20:28:00",
+                  "operatingCarrierName": "American Airlines",
+                  "fareBasisCode": "S7AHZNN1/F116",
+                  "marketingCarrier": "AA",
+                  "destinationAirport": "LGA",
+                  "marketingCarrierName": "American Airlines"
+                }
+              ]
+            }
+          ],
+          "source": "sabre-air-shop-service:undefined",
+          "taxAmount": 36.89,
+          "guid": "d7bc99de-966d-4e98-b48d-4652ae0a9f14",
+          "retailTaxAmount": 36.89,
+          "discountTaxAmount": 36.36,
+          "pricingSource": "ADVJR1",
+          "nonrefundable": true,
+          "_spring_pass_through_helper": {
+            "discount": true,
+            "durationObject": {
+              "humanFormatted": "4h 58m",
+              "value": 4.966666666666667
+            },
+            "features": {},
+            "invalidateCacheUrl": "/itineraries/one-way?origins=%7B%22primary%22:%22DCA%22%7D&destinations=%7B%22primary%22:%22NYC%22%7D&cabinClasses%5B%5D=Y&cabinClasses%5B%5D=S&date=2018-06-12&refundable=false&pricingTypes%5B%5D=retail",
+            "pkgSavingsAmount": 7.63,
+            "pkgSavingsPercent": 3.39,
+            "score": {
+              "finalRank": 50,
+              "finalScore": 0.17154157459608993,
+              "final_score": 0.17154157459608993
+            },
+            "totalDuration": "4h 58m"
+          },
+          "discountTotalAmount": 217.17,
+          "retailBaseAmount": 187.91,
+          "sourceCode": "bfm",
+          "recordUpdateTime": "2018-05-09 15:13:45+00:00",
+          "partnerStatus": "non-partner"
+        },
+        "carShare": {
+          "ID": 1,
+          "retail_price": 50.00
+        },
+        "hotel": {
+          "guid": "16794175-e4ae-494d-a5ab-328f1e34089a",
+          "score": {
+            "tile_scores": [
+              -0.7022854979316804,
+              -0.7022854979316804,
+              0.6023736697244431,
+              0.6023736697244431
+            ],
+            "final_score": 0.9564356435643564
+          },
+          "hotel_id": "622053",
+          "lat": 40.71584,
+          "lng": -73.99641,
+          "distance": 0.544804756250722,
+          "pkg_savings_amount": 0,
+          "retail_total": 1065.64,
+          "retail_total_tax": 149.16,
+          "retail_nightly_rate_total": 916.48,
+          "total": 1065.64,
+          "surcharge_total": 149.16,
+          "arrival_date": "2018-01-15",
+          "smoking_pref": "NS",
+          "high_rate": 769.08,
+          "postal_code": "10013",
+          "nightly_rate_total": 916.48,
+          "avg_rate": 229.12,
+          "retail_avg_rate": 229.12,
+          "permits_loyalty_points": false,
+          "stay_key": "es-622053-2018-01-15-2018-01-19",
+          "max_room_occupancy": 2,
+          "rate_type": "MerchantStandard",
+          "state_province_code": "NY",
+          "rate_code": 210504131,
+          "country_code": "US",
+          "hotel_properties_id": 590394,
+          "airport_code": "JFK",
+          "rate_currency_code": "USD",
+          "pkg_savings_percent": 0,
+          "property_category": 1,
+          "thumbnail_url": "/hotels/15000000/14880000/14873600/14873518/8d466f52_t.jpg",
+          "commissionable_usd_total": "916.48",
+          "sort_key": "210504131-202041685-es-622053-2018-01-15-2018-01-19",
+          "fees": [],
+          "low_rate": 183.24,
+          "bed_types": [
+            {
+              "desc": "1 king bed",
+              "id": "14"
+            }
+          ],
+          "room_type_code": 202041685,
+          "num_adults": 1,
+          "name": "Hotel 50 Bowery NYC",
+          "source": "ean-availability-service-standalone",
+          "room_desc": "Deluxe Room, 1 King Bed",
+          "date_pulled": "2018-01-05T16:27:48+00:00",
+          "departure_date": "2018-01-19",
+          "nonrefundable": false,
+          "cancellation_policy": "We understand that sometimes your travel plans change. We do not charge a change or cancel fee. However, this property (Hotel 50 Bowery NYC) imposes the following penalty to its customers that we are required to pass on: Cancellations or changes made after 6:00 PM ((GMT-05:00)) on Jan 12, 2018, or no-shows, are subject to a 1 Night Room & Tax penalty. ",
+          "surcharges": [
+            {
+              "amount": "149.16",
+              "type": "TaxAndServiceFee"
+            }
+          ],
+          "address1": "50 Bowery, East Village",
+          "location_desc": "In Manhattan (Chinatown)",
+          "city": "New York",
+          "amenities": [],
+          "source_code": "ean",
+          "max_nightly_rate": 229.12,
+          "expedia_property_id": "622053",
+          "avail_rooms": 40,
+          "hotel_rating": 4.5,
+          "avg_base_rate": 229.12,
+          "currency_code": "USD"
+        },
+        "partnerStatus": "mixed-partner",
+        "packageType": "AHRide",
+        "rank": 1,
+        "flexType": "1"
+      },
+      {
+        "flight": {
+          "discountBaseAmount": 180.81,
+          "baseAmount": 187.91,
+          "retailTotalAmount": 224.8,
+          "totalAmount": 224.8,
+          "currencyCode": "USD",
+          "segmentGroups": [
+            {
+              "_spring_pass_through_helper": {
+                "durationObject": {
+                  "humanFormatted": "4h 58m",
+                  "value": 4.966666666666667
+                }
+              },
+              "segments": [
+                {
+                  "equipmentCode": "319",
+                  "seatsAvailable": 9,
+                  "operatingCarrier": "AA",
+                  "originDepartureGmtOffset": -4,
+                  "operatingFlightNumber": "2124",
+                  "originDepartureTime": "15:30:00",
+                  "_spring_pass_through_helper": {
+                    "amenities": [],
+                    "arrivalDatetime": "2018-06-12 17:13:00",
+                    "departureDatetime": "2018-06-12 15:30:00",
+                    "destinationAirportName": "Logan International",
+                    "destinationCityName": "Boston",
+                    "duration": "1h 43m",
+                    "fareBasisDestinationAirport": "BOS",
+                    "fareBasisOriginAirport": "DCA",
+                    "originAirportName": "Ronald Reagan Washington National",
+                    "originCityName": "Washington",
+                    "retailBookingCode": "N",
+                    "segmentNumber": 0
+                  },
+                  "bookingCode": "N",
+                  "hiddenStops": [],
+                  "governingCarrier": "AA",
+                  "marketingFlightNumber": "2124",
+                  "cabin": "Y",
+                  "originDepartureDate": "2018-06-12",
+                  "cabinName": "Economy class",
+                  "destinationArrivalGmtOffset": -4,
+                  "originAirport": "DCA",
+                  "marriageGroup": "O",
+                  "durationObject": {
+                    "_spring_pass_through_helper": {},
+                    "value": 1.7166666666666666,
+                    "humanFormatted": "1h 43m"
+                  },
+                  "destinationArrivalDate": "2018-06-12",
+                  "destinationArrivalTime": "17:13:00",
+                  "operatingCarrierName": "American Airlines",
+                  "fareBasisCode": "NVAJZNN3/F116",
+                  "marketingCarrier": "AA",
+                  "destinationAirport": "BOS",
+                  "marketingCarrierName": "American Airlines"
+                },
+                {
+                  "equipmentCode": "E90",
+                  "seatsAvailable": 9,
+                  "operatingCarrier": "AA",
+                  "originDepartureGmtOffset": -4,
+                  "operatingFlightNumber": "2141",
+                  "originDepartureTime": "19:00:00",
+                  "_spring_pass_through_helper": {
+                    "amenities": [],
+                    "arrivalDatetime": "2018-06-12 20:28:00",
+                    "departureDatetime": "2018-06-12 19:00:00",
+                    "destinationAirportName": "LaGuardia",
+                    "destinationCityName": "New York",
+                    "duration": "1h 28m",
+                    "fareBasisDestinationAirport": "LGA",
+                    "fareBasisOriginAirport": "BOS",
+                    "originAirportName": "Logan International",
+                    "originCityName": "Boston",
+                    "retailBookingCode": "S",
+                    "segmentNumber": 1
+                  },
+                  "bookingCode": "S",
+                  "hiddenStops": [],
+                  "governingCarrier": "AA",
+                  "marketingFlightNumber": "2141",
+                  "cabin": "Y",
+                  "originDepartureDate": "2018-06-12",
+                  "cabinName": "Economy class",
+                  "destinationArrivalGmtOffset": -4,
+                  "originAirport": "BOS",
+                  "marriageGroup": "O",
+                  "durationObject": {
+                    "_spring_pass_through_helper": {},
+                    "value": 1.4666666666666666,
+                    "humanFormatted": "1h 28m"
+                  },
+                  "destinationArrivalDate": "2018-06-12",
+                  "destinationArrivalTime": "20:28:00",
+                  "operatingCarrierName": "American Airlines",
+                  "fareBasisCode": "S7AHZNN1/F116",
+                  "marketingCarrier": "AA",
+                  "destinationAirport": "LGA",
+                  "marketingCarrierName": "American Airlines"
+                }
+              ]
+            }
+          ],
+          "source": "sabre-air-shop-service:undefined",
+          "taxAmount": 36.89,
+          "guid": "d7bc99de-966d-4e98-b48d-4652ae0a9f14",
+          "retailTaxAmount": 36.89,
+          "discountTaxAmount": 36.36,
+          "pricingSource": "ADVJR1",
+          "nonrefundable": true,
+          "_spring_pass_through_helper": {
+            "discount": true,
+            "durationObject": {
+              "humanFormatted": "4h 58m",
+              "value": 4.966666666666667
+            },
+            "features": {},
+            "invalidateCacheUrl": "/itineraries/one-way?origins=%7B%22primary%22:%22DCA%22%7D&destinations=%7B%22primary%22:%22NYC%22%7D&cabinClasses%5B%5D=Y&cabinClasses%5B%5D=S&date=2018-06-12&refundable=false&pricingTypes%5B%5D=retail",
+            "pkgSavingsAmount": 7.63,
+            "pkgSavingsPercent": 3.39,
+            "score": {
+              "finalRank": 50,
+              "finalScore": 0.17154157459608993,
+              "final_score": 0.17154157459608993
+            },
+            "totalDuration": "4h 58m"
+          },
+          "discountTotalAmount": 217.17,
+          "retailBaseAmount": 187.91,
+          "sourceCode": "bfm",
+          "recordUpdateTime": "2018-05-09 15:13:45+00:00",
+          "partnerStatus": "non-partner"
+        },
+        "carShare": {
+          "ID": 1,
+          "retail_price": 50.00
+        },
+        "hotel": {
+          "guid": "a92a6119-d54e-4052-9d5d-64e296420818",
+          "score": {
+            "tile_scores": [
+              -0.758148273684947,
+              -0.758148273684947,
+              0.53553498415682,
+              0.53553498415682
+            ],
+            "final_score": 0.6712871287128713
+          },
+          "hotel_id": "197539",
+          "lat": 40.70466,
+          "lng": -74.01046,
+          "distance": 0.6075242409041876,
+          "pkg_savings_amount": 0,
+          "retail_total": 698.38,
+          "retail_total_tax": 101.98,
+          "retail_nightly_rate_total": 596.4,
+          "total": 698.38,
+          "surcharge_total": 101.98,
+          "arrival_date": "2018-01-15",
+          "smoking_pref": "NS",
+          "high_rate": 309.37,
+          "postal_code": "10004",
+          "nightly_rate_total": 596.4,
+          "avg_rate": 149.1,
+          "retail_avg_rate": 149.1,
+          "permits_loyalty_points": false,
+          "stay_key": "es-197539-2018-01-15-2018-01-19",
+          "max_room_occupancy": 3,
+          "rate_type": "MerchantStandard",
+          "state_province_code": "NY",
+          "rate_code": 207672261,
+          "country_code": "US",
+          "hotel_properties_id": 14439,
+          "airport_code": "LGA",
+          "rate_currency_code": "USD",
+          "pkg_savings_percent": 0,
+          "property_category": 1,
+          "thumbnail_url": "/hotels/1000000/900000/899500/899426/d80380e3_t.jpg",
+          "commissionable_usd_total": "596.40",
+          "sort_key": "207672261-201529296-es-197539-2018-01-15-2018-01-19",
+          "fees": [],
+          "low_rate": 116.1,
+          "bed_types": [
+            {
+              "desc": "1 king bed",
+              "id": "14"
+            }
+          ],
+          "room_type_code": 201529296,
+          "num_adults": 1,
+          "name": "The Wall Street Inn",
+          "source": "ean-availability-service-standalone",
+          "room_desc": "Superior King Room",
+          "date_pulled": "2018-01-05T16:27:48+00:00",
+          "departure_date": "2018-01-19",
+          "nonrefundable": false,
+          "cancellation_policy": "We understand that sometimes your travel plans change. We do not charge a change or cancel fee. However, this property (The Wall Street Inn) imposes the following penalty to its customers that we are required to pass on: Cancellations or changes made after 6:00 PM ((GMT-05:00)) on Jan 14, 2018, or no-shows, are subject to a 1 Night Room & Tax penalty. ",
+          "surcharges": [
+            {
+              "amount": "101.98",
+              "type": "TaxAndServiceFee"
+            }
+          ],
+          "address1": "9 S William St",
+          "location_desc": "Near New York Stock Exchange",
+          "city": "New York",
+          "amenities": [
+            {
+              "desc": "Free Wireless Internet",
+              "id": "2192"
+            },
+            {
+              "desc": "Continental Breakfast",
+              "id": "2103"
+            }
+          ],
+          "source_code": "ean",
+          "max_nightly_rate": 179,
+          "expedia_property_id": "197539",
+          "avail_rooms": 6,
+          "hotel_rating": 3,
+          "avg_base_rate": 164,
+          "currency_code": "USD"
+        },
+        "partnerStatus": "mixed-partner",
+        "packageType": "AHRide",
+        "rank": 2,
+        "flexType": "2"
+      },
+      {
+        "flight": {
+          "discountBaseAmount": 180.81,
+          "baseAmount": 187.91,
+          "retailTotalAmount": 224.8,
+          "totalAmount": 224.8,
+          "currencyCode": "USD",
+          "segmentGroups": [
+            {
+              "_spring_pass_through_helper": {
+                "durationObject": {
+                  "humanFormatted": "4h 58m",
+                  "value": 4.966666666666667
+                }
+              },
+              "segments": [
+                {
+                  "equipmentCode": "319",
+                  "seatsAvailable": 9,
+                  "operatingCarrier": "AA",
+                  "originDepartureGmtOffset": -4,
+                  "operatingFlightNumber": "2124",
+                  "originDepartureTime": "15:30:00",
+                  "_spring_pass_through_helper": {
+                    "amenities": [],
+                    "arrivalDatetime": "2018-06-12 17:13:00",
+                    "departureDatetime": "2018-06-12 15:30:00",
+                    "destinationAirportName": "Logan International",
+                    "destinationCityName": "Boston",
+                    "duration": "1h 43m",
+                    "fareBasisDestinationAirport": "BOS",
+                    "fareBasisOriginAirport": "DCA",
+                    "originAirportName": "Ronald Reagan Washington National",
+                    "originCityName": "Washington",
+                    "retailBookingCode": "N",
+                    "segmentNumber": 0
+                  },
+                  "bookingCode": "N",
+                  "hiddenStops": [],
+                  "governingCarrier": "AA",
+                  "marketingFlightNumber": "2124",
+                  "cabin": "Y",
+                  "originDepartureDate": "2018-06-12",
+                  "cabinName": "Economy class",
+                  "destinationArrivalGmtOffset": -4,
+                  "originAirport": "DCA",
+                  "marriageGroup": "O",
+                  "durationObject": {
+                    "_spring_pass_through_helper": {},
+                    "value": 1.7166666666666666,
+                    "humanFormatted": "1h 43m"
+                  },
+                  "destinationArrivalDate": "2018-06-12",
+                  "destinationArrivalTime": "17:13:00",
+                  "operatingCarrierName": "American Airlines",
+                  "fareBasisCode": "NVAJZNN3/F116",
+                  "marketingCarrier": "AA",
+                  "destinationAirport": "BOS",
+                  "marketingCarrierName": "American Airlines"
+                },
+                {
+                  "equipmentCode": "E90",
+                  "seatsAvailable": 9,
+                  "operatingCarrier": "AA",
+                  "originDepartureGmtOffset": -4,
+                  "operatingFlightNumber": "2141",
+                  "originDepartureTime": "19:00:00",
+                  "_spring_pass_through_helper": {
+                    "amenities": [],
+                    "arrivalDatetime": "2018-06-12 20:28:00",
+                    "departureDatetime": "2018-06-12 19:00:00",
+                    "destinationAirportName": "LaGuardia",
+                    "destinationCityName": "New York",
+                    "duration": "1h 28m",
+                    "fareBasisDestinationAirport": "LGA",
+                    "fareBasisOriginAirport": "BOS",
+                    "originAirportName": "Logan International",
+                    "originCityName": "Boston",
+                    "retailBookingCode": "S",
+                    "segmentNumber": 1
+                  },
+                  "bookingCode": "S",
+                  "hiddenStops": [],
+                  "governingCarrier": "AA",
+                  "marketingFlightNumber": "2141",
+                  "cabin": "Y",
+                  "originDepartureDate": "2018-06-12",
+                  "cabinName": "Economy class",
+                  "destinationArrivalGmtOffset": -4,
+                  "originAirport": "BOS",
+                  "marriageGroup": "O",
+                  "durationObject": {
+                    "_spring_pass_through_helper": {},
+                    "value": 1.4666666666666666,
+                    "humanFormatted": "1h 28m"
+                  },
+                  "destinationArrivalDate": "2018-06-12",
+                  "destinationArrivalTime": "20:28:00",
+                  "operatingCarrierName": "American Airlines",
+                  "fareBasisCode": "S7AHZNN1/F116",
+                  "marketingCarrier": "AA",
+                  "destinationAirport": "LGA",
+                  "marketingCarrierName": "American Airlines"
+                }
+              ]
+            }
+          ],
+          "source": "sabre-air-shop-service:undefined",
+          "taxAmount": 36.89,
+          "guid": "d7bc99de-966d-4e98-b48d-4652ae0a9f14",
+          "retailTaxAmount": 36.89,
+          "discountTaxAmount": 36.36,
+          "pricingSource": "ADVJR1",
+          "nonrefundable": true,
+          "_spring_pass_through_helper": {
+            "discount": true,
+            "durationObject": {
+              "humanFormatted": "4h 58m",
+              "value": 4.966666666666667
+            },
+            "features": {},
+            "invalidateCacheUrl": "/itineraries/one-way?origins=%7B%22primary%22:%22DCA%22%7D&destinations=%7B%22primary%22:%22NYC%22%7D&cabinClasses%5B%5D=Y&cabinClasses%5B%5D=S&date=2018-06-12&refundable=false&pricingTypes%5B%5D=retail",
+            "pkgSavingsAmount": 7.63,
+            "pkgSavingsPercent": 3.39,
+            "score": {
+              "finalRank": 50,
+              "finalScore": 0.17154157459608993,
+              "final_score": 0.17154157459608993
+            },
+            "totalDuration": "4h 58m"
+          },
+          "discountTotalAmount": 217.17,
+          "retailBaseAmount": 187.91,
+          "sourceCode": "bfm",
+          "recordUpdateTime": "2018-05-09 15:13:45+00:00",
+          "partnerStatus": "non-partner"
+        },
+        "carShare": {
+          "ID": 1,
+          "retail_price": 50.00
+        },
+        "hotel": {
+          "guid": "f4bff0f9-44ae-44ba-93a2-bf9538e317f9",
+          "score": {
+            "tile_scores": [
+              0.34834401598948955,
+              0.34834401598948955,
+              0.6506884314311777,
+              0.6506884314311777
+            ],
+            "final_score": 0.9762376237623762
+          },
+          "hotel_id": "407095",
+          "lat": 40.71695,
+          "lng": -73.99562,
+          "distance": 0.615174768904639,
+          "pkg_savings_amount": 0,
+          "retail_total": 973.66,
+          "retail_total_tax": 137.34,
+          "retail_nightly_rate_total": 836.32,
+          "total": 973.66,
+          "surcharge_total": 137.34,
+          "arrival_date": "2018-01-15",
+          "smoking_pref": "NS",
+          "high_rate": 347.92,
+          "postal_code": "10002",
+          "nightly_rate_total": 836.32,
+          "avg_rate": 209.08,
+          "retail_avg_rate": 209.08,
+          "permits_loyalty_points": true,
+          "stay_key": "es-407095-2018-01-15-2018-01-19",
+          "max_room_occupancy": 2,
+          "rate_type": "MerchantStandard",
+          "state_province_code": "NY",
+          "rate_code": 210276370,
+          "country_code": "US",
+          "hotel_properties_id": 14993,
+          "airport_code": "LGA",
+          "rate_currency_code": "USD",
+          "pkg_savings_percent": 0,
+          "property_category": 1,
+          "thumbnail_url": "/hotels/6000000/5050000/5045700/5045651/9a336981_t.jpg",
+          "commissionable_usd_total": "836.32",
+          "sort_key": "210276370-202015938-es-407095-2018-01-15-2018-01-19",
+          "fees": [],
+          "low_rate": 134.1,
+          "bed_types": [
+            {
+              "desc": "1 king bed",
+              "id": "14"
+            }
+          ],
+          "room_type_code": 202015938,
+          "num_adults": 1,
+          "name": "Wyndham Garden Chinatown",
+          "source": "ean-availability-service-standalone",
+          "room_desc": "Deluxe Room, 1 King Bed, Non Smoking",
+          "date_pulled": "2018-01-05T16:27:48+00:00",
+          "departure_date": "2018-01-19",
+          "nonrefundable": false,
+          "cancellation_policy": "We understand that sometimes your travel plans change. We do not charge a change or cancel fee. However, this property (Wyndham Garden Chinatown) imposes the following penalty to its customers that we are required to pass on: Cancellations or changes made after 3:00 PM ((GMT-05:00)) on Jan 14, 2018, or no-shows, are subject to a 1 Night Room & Tax penalty. ",
+          "surcharges": [
+            {
+              "amount": "137.34",
+              "type": "TaxAndServiceFee"
+            }
+          ],
+          "address1": "93 Bowery",
+          "location_desc": "In Manhattan (Bowery)",
+          "city": "New York",
+          "amenities": [],
+          "source_code": "ean",
+          "max_nightly_rate": 229.09,
+          "expedia_property_id": "407095",
+          "avail_rooms": 3,
+          "hotel_rating": 4,
+          "avg_base_rate": 209.08,
+          "currency_code": "USD"
+        },
+        "partnerStatus": "mixed-partner",
+        "packageType": "AHRide",
+        "rank": 3,
+        "flexType": "3"
+      },
+      {
+        "flight": {
+          "discountBaseAmount": 180.81,
+          "baseAmount": 187.91,
+          "retailTotalAmount": 224.8,
+          "totalAmount": 224.8,
+          "currencyCode": "USD",
+          "segmentGroups": [
+            {
+              "_spring_pass_through_helper": {
+                "durationObject": {
+                  "humanFormatted": "4h 58m",
+                  "value": 4.966666666666667
+                }
+              },
+              "segments": [
+                {
+                  "equipmentCode": "319",
+                  "seatsAvailable": 9,
+                  "operatingCarrier": "AA",
+                  "originDepartureGmtOffset": -4,
+                  "operatingFlightNumber": "2124",
+                  "originDepartureTime": "15:30:00",
+                  "_spring_pass_through_helper": {
+                    "amenities": [],
+                    "arrivalDatetime": "2018-06-12 17:13:00",
+                    "departureDatetime": "2018-06-12 15:30:00",
+                    "destinationAirportName": "Logan International",
+                    "destinationCityName": "Boston",
+                    "duration": "1h 43m",
+                    "fareBasisDestinationAirport": "BOS",
+                    "fareBasisOriginAirport": "DCA",
+                    "originAirportName": "Ronald Reagan Washington National",
+                    "originCityName": "Washington",
+                    "retailBookingCode": "N",
+                    "segmentNumber": 0
+                  },
+                  "bookingCode": "N",
+                  "hiddenStops": [],
+                  "governingCarrier": "AA",
+                  "marketingFlightNumber": "2124",
+                  "cabin": "Y",
+                  "originDepartureDate": "2018-06-12",
+                  "cabinName": "Economy class",
+                  "destinationArrivalGmtOffset": -4,
+                  "originAirport": "DCA",
+                  "marriageGroup": "O",
+                  "durationObject": {
+                    "_spring_pass_through_helper": {},
+                    "value": 1.7166666666666666,
+                    "humanFormatted": "1h 43m"
+                  },
+                  "destinationArrivalDate": "2018-06-12",
+                  "destinationArrivalTime": "17:13:00",
+                  "operatingCarrierName": "American Airlines",
+                  "fareBasisCode": "NVAJZNN3/F116",
+                  "marketingCarrier": "AA",
+                  "destinationAirport": "BOS",
+                  "marketingCarrierName": "American Airlines"
+                },
+                {
+                  "equipmentCode": "E90",
+                  "seatsAvailable": 9,
+                  "operatingCarrier": "AA",
+                  "originDepartureGmtOffset": -4,
+                  "operatingFlightNumber": "2141",
+                  "originDepartureTime": "19:00:00",
+                  "_spring_pass_through_helper": {
+                    "amenities": [],
+                    "arrivalDatetime": "2018-06-12 20:28:00",
+                    "departureDatetime": "2018-06-12 19:00:00",
+                    "destinationAirportName": "LaGuardia",
+                    "destinationCityName": "New York",
+                    "duration": "1h 28m",
+                    "fareBasisDestinationAirport": "LGA",
+                    "fareBasisOriginAirport": "BOS",
+                    "originAirportName": "Logan International",
+                    "originCityName": "Boston",
+                    "retailBookingCode": "S",
+                    "segmentNumber": 1
+                  },
+                  "bookingCode": "S",
+                  "hiddenStops": [],
+                  "governingCarrier": "AA",
+                  "marketingFlightNumber": "2141",
+                  "cabin": "Y",
+                  "originDepartureDate": "2018-06-12",
+                  "cabinName": "Economy class",
+                  "destinationArrivalGmtOffset": -4,
+                  "originAirport": "BOS",
+                  "marriageGroup": "O",
+                  "durationObject": {
+                    "_spring_pass_through_helper": {},
+                    "value": 1.4666666666666666,
+                    "humanFormatted": "1h 28m"
+                  },
+                  "destinationArrivalDate": "2018-06-12",
+                  "destinationArrivalTime": "20:28:00",
+                  "operatingCarrierName": "American Airlines",
+                  "fareBasisCode": "S7AHZNN1/F116",
+                  "marketingCarrier": "AA",
+                  "destinationAirport": "LGA",
+                  "marketingCarrierName": "American Airlines"
+                }
+              ]
+            }
+          ],
+          "source": "sabre-air-shop-service:undefined",
+          "taxAmount": 36.89,
+          "guid": "d7bc99de-966d-4e98-b48d-4652ae0a9f14",
+          "retailTaxAmount": 36.89,
+          "discountTaxAmount": 36.36,
+          "pricingSource": "ADVJR1",
+          "nonrefundable": true,
+          "_spring_pass_through_helper": {
+            "discount": true,
+            "durationObject": {
+              "humanFormatted": "4h 58m",
+              "value": 4.966666666666667
+            },
+            "features": {},
+            "invalidateCacheUrl": "/itineraries/one-way?origins=%7B%22primary%22:%22DCA%22%7D&destinations=%7B%22primary%22:%22NYC%22%7D&cabinClasses%5B%5D=Y&cabinClasses%5B%5D=S&date=2018-06-12&refundable=false&pricingTypes%5B%5D=retail",
+            "pkgSavingsAmount": 7.63,
+            "pkgSavingsPercent": 3.39,
+            "score": {
+              "finalRank": 50,
+              "finalScore": 0.17154157459608993,
+              "final_score": 0.17154157459608993
+            },
+            "totalDuration": "4h 58m"
+          },
+          "discountTotalAmount": 217.17,
+          "retailBaseAmount": 187.91,
+          "sourceCode": "bfm",
+          "recordUpdateTime": "2018-05-09 15:13:45+00:00",
+          "partnerStatus": "non-partner"
+        },
+        "carShare": {
+          "ID": 1,
+          "retail_price": 50.00
+        },
+        "hotel": {
+          "guid": "4be60cd8-7254-417d-b000-f689db3bfd26",
+          "score": {
+            "tile_scores": [
+              -0.7357157337455613,
+              -0.7357157337455613,
+              0.5247844936092518,
+              0.5247844936092518
+            ],
+            "final_score": 0.7683168316831683
+          },
+          "hotel_id": "524599",
+          "lat": 40.72424,
+          "lng": -74.00784,
+          "distance": 0.7971415579724945,
+          "pkg_savings_amount": 0,
+          "retail_total": 996.58,
+          "retail_total_tax": 140.28,
+          "retail_nightly_rate_total": 856.3,
+          "total": 996.58,
+          "surcharge_total": 140.28,
+          "arrival_date": "2018-01-15",
+          "smoking_pref": "NS",
+          "high_rate": 639.44,
+          "postal_code": "10013",
+          "nightly_rate_total": 856.3,
+          "avg_rate": 214.08,
+          "retail_avg_rate": 214.08,
+          "permits_loyalty_points": false,
+          "stay_key": "es-524599-2018-01-15-2018-01-19",
+          "max_room_occupancy": 2,
+          "rate_type": "MerchantStandard",
+          "state_province_code": "NY",
+          "rate_code": 208050809,
+          "country_code": "US",
+          "hotel_properties_id": 102449,
+          "airport_code": "LGA",
+          "rate_currency_code": "USD",
+          "pkg_savings_percent": 0,
+          "property_category": 1,
+          "thumbnail_url": "/hotels/11000000/10630000/10624800/10624734/5d079469_t.jpg",
+          "commissionable_usd_total": "856.30",
+          "sort_key": "208050809-201603700-es-524599-2018-01-15-2018-01-19",
+          "fees": [],
+          "low_rate": 149.06,
+          "bed_types": [
+            {
+              "desc": "1 king bed",
+              "id": "14"
+            }
+          ],
+          "room_type_code": 201603700,
+          "num_adults": 1,
+          "name": "Arlo SoHo",
+          "source": "ean-availability-service-standalone",
+          "room_desc": "Room, 1 King Bed (Courtyard)",
+          "date_pulled": "2018-01-05T16:27:48+00:00",
+          "departure_date": "2018-01-19",
+          "nonrefundable": false,
+          "cancellation_policy": "We understand that sometimes your travel plans change. We do not charge a change or cancel fee. However, this property (Arlo SoHo) imposes the following penalty to its customers that we are required to pass on: Cancellations or changes made after 6:00 PM ((GMT-08:00)) on Jan 14, 2018, or no-shows, are subject to a 1 Night Room & Tax penalty. ",
+          "surcharges": [
+            {
+              "amount": "140.28",
+              "type": "TaxAndServiceFee"
+            }
+          ],
+          "address1": "231 Hudson Street",
+          "location_desc": "Near New York University",
+          "city": "New York",
+          "amenities": [],
+          "source_code": "ean",
+          "max_nightly_rate": 249.09,
+          "expedia_property_id": "524599",
+          "avail_rooms": 38,
+          "hotel_rating": 4,
+          "avg_base_rate": 214.08,
+          "currency_code": "USD"
+        },
+        "partnerStatus": "mixed-partner",
+        "packageType": "AHRide",
+        "rank": 4,
+        "flexType": "4"
+      },
+      {
+        "flight": {
+          "discountBaseAmount": 180.81,
+          "baseAmount": 187.91,
+          "retailTotalAmount": 224.8,
+          "totalAmount": 224.8,
+          "currencyCode": "USD",
+          "segmentGroups": [
+            {
+              "_spring_pass_through_helper": {
+                "durationObject": {
+                  "humanFormatted": "4h 58m",
+                  "value": 4.966666666666667
+                }
+              },
+              "segments": [
+                {
+                  "equipmentCode": "319",
+                  "seatsAvailable": 9,
+                  "operatingCarrier": "AA",
+                  "originDepartureGmtOffset": -4,
+                  "operatingFlightNumber": "2124",
+                  "originDepartureTime": "15:30:00",
+                  "_spring_pass_through_helper": {
+                    "amenities": [],
+                    "arrivalDatetime": "2018-06-12 17:13:00",
+                    "departureDatetime": "2018-06-12 15:30:00",
+                    "destinationAirportName": "Logan International",
+                    "destinationCityName": "Boston",
+                    "duration": "1h 43m",
+                    "fareBasisDestinationAirport": "BOS",
+                    "fareBasisOriginAirport": "DCA",
+                    "originAirportName": "Ronald Reagan Washington National",
+                    "originCityName": "Washington",
+                    "retailBookingCode": "N",
+                    "segmentNumber": 0
+                  },
+                  "bookingCode": "N",
+                  "hiddenStops": [],
+                  "governingCarrier": "AA",
+                  "marketingFlightNumber": "2124",
+                  "cabin": "Y",
+                  "originDepartureDate": "2018-06-12",
+                  "cabinName": "Economy class",
+                  "destinationArrivalGmtOffset": -4,
+                  "originAirport": "DCA",
+                  "marriageGroup": "O",
+                  "durationObject": {
+                    "_spring_pass_through_helper": {},
+                    "value": 1.7166666666666666,
+                    "humanFormatted": "1h 43m"
+                  },
+                  "destinationArrivalDate": "2018-06-12",
+                  "destinationArrivalTime": "17:13:00",
+                  "operatingCarrierName": "American Airlines",
+                  "fareBasisCode": "NVAJZNN3/F116",
+                  "marketingCarrier": "AA",
+                  "destinationAirport": "BOS",
+                  "marketingCarrierName": "American Airlines"
+                },
+                {
+                  "equipmentCode": "E90",
+                  "seatsAvailable": 9,
+                  "operatingCarrier": "AA",
+                  "originDepartureGmtOffset": -4,
+                  "operatingFlightNumber": "2141",
+                  "originDepartureTime": "19:00:00",
+                  "_spring_pass_through_helper": {
+                    "amenities": [],
+                    "arrivalDatetime": "2018-06-12 20:28:00",
+                    "departureDatetime": "2018-06-12 19:00:00",
+                    "destinationAirportName": "LaGuardia",
+                    "destinationCityName": "New York",
+                    "duration": "1h 28m",
+                    "fareBasisDestinationAirport": "LGA",
+                    "fareBasisOriginAirport": "BOS",
+                    "originAirportName": "Logan International",
+                    "originCityName": "Boston",
+                    "retailBookingCode": "S",
+                    "segmentNumber": 1
+                  },
+                  "bookingCode": "S",
+                  "hiddenStops": [],
+                  "governingCarrier": "AA",
+                  "marketingFlightNumber": "2141",
+                  "cabin": "Y",
+                  "originDepartureDate": "2018-06-12",
+                  "cabinName": "Economy class",
+                  "destinationArrivalGmtOffset": -4,
+                  "originAirport": "BOS",
+                  "marriageGroup": "O",
+                  "durationObject": {
+                    "_spring_pass_through_helper": {},
+                    "value": 1.4666666666666666,
+                    "humanFormatted": "1h 28m"
+                  },
+                  "destinationArrivalDate": "2018-06-12",
+                  "destinationArrivalTime": "20:28:00",
+                  "operatingCarrierName": "American Airlines",
+                  "fareBasisCode": "S7AHZNN1/F116",
+                  "marketingCarrier": "AA",
+                  "destinationAirport": "LGA",
+                  "marketingCarrierName": "American Airlines"
+                }
+              ]
+            }
+          ],
+          "source": "sabre-air-shop-service:undefined",
+          "taxAmount": 36.89,
+          "guid": "d7bc99de-966d-4e98-b48d-4652ae0a9f14",
+          "retailTaxAmount": 36.89,
+          "discountTaxAmount": 36.36,
+          "pricingSource": "ADVJR1",
+          "nonrefundable": true,
+          "_spring_pass_through_helper": {
+            "discount": true,
+            "durationObject": {
+              "humanFormatted": "4h 58m",
+              "value": 4.966666666666667
+            },
+            "features": {},
+            "invalidateCacheUrl": "/itineraries/one-way?origins=%7B%22primary%22:%22DCA%22%7D&destinations=%7B%22primary%22:%22NYC%22%7D&cabinClasses%5B%5D=Y&cabinClasses%5B%5D=S&date=2018-06-12&refundable=false&pricingTypes%5B%5D=retail",
+            "pkgSavingsAmount": 7.63,
+            "pkgSavingsPercent": 3.39,
+            "score": {
+              "finalRank": 50,
+              "finalScore": 0.17154157459608993,
+              "final_score": 0.17154157459608993
+            },
+            "totalDuration": "4h 58m"
+          },
+          "discountTotalAmount": 217.17,
+          "retailBaseAmount": 187.91,
+          "sourceCode": "bfm",
+          "recordUpdateTime": "2018-05-09 15:13:45+00:00",
+          "partnerStatus": "non-partner"
+        },
+        "carShare": {
+          "ID": 1,
+          "retail_price": 50.00
+        },
+        "hotel": {
+          "guid": "4a1bc059-c57b-4f61-a107-7330fe1e4c87",
+          "score": {
+            "tile_scores": [
+              -0.821058920977296,
+              -0.821058920977296,
+              0.4007828520072274,
+              0.4007828520072274
+            ],
+            "final_score": 0.033663366336633666
+          },
+          "hotel_id": "693316",
+          "lat": 40.72282,
+          "lng": -73.99177,
+          "distance": 1.0180470115170093,
+          "pkg_savings_amount": 0,
+          "retail_total": 1503.9,
+          "retail_total_tax": 205.48,
+          "retail_nightly_rate_total": 1298.42,
+          "total": 1503.9,
+          "surcharge_total": 205.48,
+          "arrival_date": "2018-01-15",
+          "smoking_pref": "NS",
+          "high_rate": 315.03,
+          "postal_code": "10002",
+          "nightly_rate_total": 1298.42,
+          "avg_rate": 324.6,
+          "retail_avg_rate": 324.6,
+          "permits_loyalty_points": false,
+          "stay_key": "es-693316-2018-01-15-2018-01-19",
+          "max_room_occupancy": 3,
+          "rate_type": "MerchantStandard",
+          "state_province_code": "NY",
+          "rate_code": 210109668,
+          "country_code": "US",
+          "hotel_properties_id": 1218409,
+          "airport_code": "JFK",
+          "rate_currency_code": "USD",
+          "pkg_savings_percent": 0,
+          "property_category": 1,
+          "thumbnail_url": "/hotels/18000000/17120000/17117100/17117062/8328a8ea_t.jpg",
+          "commissionable_usd_total": "1298.42",
+          "sort_key": "210109668-201980746-es-693316-2018-01-15-2018-01-19",
+          "fees": [],
+          "low_rate": 229.91,
+          "bed_types": [
+            {
+              "desc": "1 king and 1 sofa bed",
+              "id": "67"
+            }
+          ],
+          "room_type_code": 201980746,
+          "num_adults": 1,
+          "name": "PUBLIC, an Ian Schrager hotel",
+          "source": "ean-availability-service-standalone",
+          "room_desc": "Room, 1 King Bed with Sofa bed",
+          "date_pulled": "2018-01-05T16:27:48+00:00",
+          "departure_date": "2018-01-19",
+          "nonrefundable": false,
+          "cancellation_policy": "We understand that sometimes your travel plans change. We do not charge a change or cancel fee. However, this property (PUBLIC, an Ian Schrager hotel) imposes the following penalty to its customers that we are required to pass on: Cancellations or changes made after 4:00 PM ((GMT-05:00)) on Jan 14, 2018, or no-shows, are subject to a 1 Night Room & Tax penalty. ",
+          "surcharges": [
+            {
+              "amount": "205.48",
+              "type": "TaxAndServiceFee"
+            }
+          ],
+          "address1": "215 Chrystie St",
+          "location_desc": "Near New York University",
+          "city": "New York",
+          "amenities": [
+            {
+              "desc": "Free High-Speed Internet",
+              "id": "2191"
+            }
+          ],
+          "source_code": "ean",
+          "max_nightly_rate": 338.13,
+          "expedia_property_id": "693316",
+          "avail_rooms": 21,
+          "hotel_rating": 4,
+          "avg_base_rate": 360.07,
+          "currency_code": "USD"
+        },
+        "partnerStatus": "mixed-partner",
+        "packageType": "AHRide",
+        "rank": 5,
+        "flexType": "5"
+      }
+    ],
+    "promoDetails": {}
+  }
